@@ -1,6 +1,6 @@
 # Instructions
 
-Create a GitHub page for the project
+Create a GitHub page for Jacob's Project
 
 ## GitHub:
 #### 1. Create a GitHub account and Sign in
